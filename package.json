@@ -1,0 +1,24 @@
+{
+  "name": "connido-backend-technical-test",
+  "version": "1.0.0",
+  "description": "You have been asked to implement a __REST API__ that allows its consumers to create *articles*. Each *article* has a `title`, `content`, `author's name`, `date created` and `date updated`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganashreeravikumar/connido-backend-technical-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganashreeravikumar/connido-backend-technical-test/issues"
+  },
+  "homepage": "https://github.com/ganashreeravikumar/connido-backend-technical-test#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.3"
+  }
+}
